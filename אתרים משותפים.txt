@@ -172,6 +172,9 @@
 
 	EMS
 	http://www.ems.post/
+	
+	בוטיק 24 שילוח אקספרס
+	https://www.24delivery.org/
 
 %% הורדות
 
